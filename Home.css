@@ -147,7 +147,7 @@
 .u-section-3 .u-text-3 {
   font-size: 1.25rem;
   font-weight: 500;
-  margin: 47px auto 0 41px;
+  margin: 47px 0 0;
 }
 
 @media (max-width: 1199px) {
@@ -180,10 +180,6 @@
   .u-section-3 .u-container-layout-2 {
     padding-left: 30px;
     padding-right: 30px;
-  }
-
-  .u-section-3 .u-text-3 {
-    margin-left: 0;
   }
 }
 
