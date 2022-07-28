@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/220724200512.jpg");
+  background-image: url("images/220724200600.jpg");
   background-position: 50% 50%;
 }
 
@@ -31,11 +31,13 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 239px;
+    min-height: 262px;
   }
 
   .u-section-1 .u-text-1 {
     width: auto;
+    font-family: "Alex Brush";
+    margin-top: 49px;
     margin-bottom: 60px;
   }
 } .u-section-2 {
@@ -78,12 +80,12 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 501px;
+    min-height: 517px;
   }
 
   .u-section-2 .u-text-1 {
     width: auto;
-    margin-top: 50px;
+    margin-top: 60px;
     margin-left: 0;
     margin-right: 0;
   }
