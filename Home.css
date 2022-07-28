@@ -8,6 +8,7 @@
 }
 
 .u-section-1 .u-text-1 {
+  font-family: Roboto, sans-serif;
   margin: 60px auto 0;
 }
 
@@ -37,7 +38,7 @@
   .u-section-1 .u-text-1 {
     width: auto;
     font-family: "Alex Brush";
-    margin-top: 49px;
+    margin-top: 68px;
     margin-bottom: 60px;
   }
 } .u-section-2 {
