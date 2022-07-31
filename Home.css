@@ -363,4 +363,25 @@
 
 .u-section-8 .u-text-1 {
   margin: 55px 0 60px;
+}.u-section-9 .u-sheet-1 {
+  min-height: 86px;
+}
+
+.u-section-9 .u-text-1 {
+  font-weight: 700;
+  line-height: 1.3;
+  font-size: 1.25rem;
+  font-style: italic;
+  margin: 30px auto 30px 0;
+}
+
+.u-section-9 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-9 .u-text-1 {
+    height: 39px;
+  }
 }
