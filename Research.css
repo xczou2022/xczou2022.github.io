@@ -513,11 +513,11 @@
 }
 
 .u-section-10 .u-text-1 {
-  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
-  --animation-custom_in-rotate: 180deg;
-  --animation-custom_in-scale: 0.3;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
   margin: 51px 0 24px;
 } .u-section-11 {
   background-image: none;
