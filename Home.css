@@ -154,7 +154,7 @@
   height: 290px;
   background-image: url("images/self.jpg");
   background-position: 50% 50%;
-  margin: 23px 111px 0 auto;
+  margin: 23px auto 0;
 }
 
 .u-section-3 .u-text-3 {
@@ -230,10 +230,6 @@
   .u-section-3 .u-container-layout-2 {
     padding-left: 24px;
     padding-right: 24px;
-  }
-
-  .u-section-3 .u-image-1 {
-    margin-right: 22px;
   }
 }
 
