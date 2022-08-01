@@ -37738,11 +37738,11 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 84px;
+  min-height: 68px;
 }
 
 .u-header .u-menu-1 {
-  margin: 1px 0 1px auto;
+  margin: -14px 0 0 auto;
 }
 
 .u-header .u-nav-1 {
@@ -37756,6 +37756,10 @@ a.u-link.u-text-hover-grey-90:hover {
   font-size: 1.25rem;
 }
 @media (max-width: 1199px) {
+  .u-header .u-sheet-1 {
+    min-height: 68px;
+  }
+
   .u-header .u-menu-1 {
     width: auto;
   }
